@@ -21,11 +21,6 @@ function Navbar() {
 
   return (
     <div className={`navbar ${show && "nav__black"}`}>
-      // <img
-      //   className="nav__logo"
-      //   src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
-      //   alt="NETFLIX"
-      // />
       <h1 style={{color: "Blue", fontSize: "22px"}}>MOVIEINFO</h1>
       <img
         className="nav__avatar"
