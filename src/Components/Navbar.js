@@ -21,11 +21,12 @@ function Navbar() {
 
   return (
     <div className={`navbar ${show && "nav__black"}`}>
-      <img
-        className="nav__logo"
-        src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
-        alt="NETFLIX"
-      />
+      // <img
+      //   className="nav__logo"
+      //   src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
+      //   alt="NETFLIX"
+      // />
+      <h1>MOVIEINFO</h1>
       <img
         className="nav__avatar"
         src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
