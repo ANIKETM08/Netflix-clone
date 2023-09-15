@@ -26,7 +26,7 @@ function Navbar() {
       //   src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
       //   alt="NETFLIX"
       // />
-      <h1>MOVIEINFO</h1>
+      <h1 style={{color: "Blue", fontSize: "22px"}}>MOVIEINFO</h1>
       <img
         className="nav__avatar"
         src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
